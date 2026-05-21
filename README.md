@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi, I'm Ibtisam Khan 👋
 
-<!--
-**Ibtisam313/Ibtisam313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student and aspiring Software Developer, currently learning full stack development and strengthening my core programming concepts.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Science student
+- 💻 Interested in Software Development and Web Development
+- 🌱 Currently learning Full Stack Development, OOP, Data Structures, and Databases
+- 🔍 Looking for internship opportunities to gain real-world experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming: C, C++, Python basics
+- Web: HTML, CSS, JavaScript basics, React basics
+- Database: SQL, MySQL, SQL Server
+- Tools: Git, GitHub, VS Code
+
+## 📌 Projects
+- Event Management System Website
+- Event Management System Desktop Application
+- Hospital Database System
+- Xonix Game
+- Chrono Rift OS Project
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/ibtisam-khan-908043267
+- GitHub: github.com/ibtisam313
