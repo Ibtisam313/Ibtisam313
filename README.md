@@ -20,7 +20,10 @@ I am a Computer Science student and aspiring Software Developer, currently learn
 - Hospital Database System
 - Xonix Game
 - Chrono Rift OS Project
+- MLOps Prediction API & Deployment Project
 
 ## 📫 Connect With Me
+- Gmail:ibtisamkhan080@gmail.com
 - LinkedIn: www.linkedin.com/in/ibtisam-khan-908043267
 - GitHub: github.com/ibtisam313
+
